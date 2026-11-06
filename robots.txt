@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://arbitragegod.github.io/liberty-power-park/sitemap.xml
